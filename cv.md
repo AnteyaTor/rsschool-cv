@@ -15,8 +15,8 @@ I am 23 years old, I work as a process engineer. I desire to learn new things fr
 * Adobe Photoshop
 ## **Code example**
 [***Find Multiples of a Number***](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
-```
-function findMultiples(integer, limit) {
+
+```function findMultiples(integer, limit) {
 let arr=[];
 
   for (let i=integer; i<=limit; i++) 
@@ -26,8 +26,8 @@ if (i % integer == 0) {
   arr.push (i)}
 } 
    return arr
-} 
-```
+} ```
+
 ## **Education**
 * **University:** Belarusian State Technological University, Organic Substances Technology Faculty, (2020-2015) 
 * JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
