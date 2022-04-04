@@ -1,1 +1,0 @@
-https://AnteyaTor.github.io/rsschool-cv/cv
